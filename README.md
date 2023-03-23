@@ -16,7 +16,7 @@ The author developed these functions on Matlab 2016a.
 
 - **CapacityMargin:** Computing the capacity margin.
 
-- **ffau:** Equality constraint.
+- **ffau:** Equality constraints.
 
 - **msolver:** Solving the force balance equation.
 
